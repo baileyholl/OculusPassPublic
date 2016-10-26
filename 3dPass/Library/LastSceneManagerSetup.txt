@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VRSampleScenes/Scenes/Examples/InteractiveItem.unity
+  isLoaded: 1
+  isActive: 1
